@@ -1,7 +1,7 @@
 # loading_tangerang
 
 penggunaan :
-  import di gradle anda 
+import di gradle anda 
 
   allprojects {
 		repositories {
