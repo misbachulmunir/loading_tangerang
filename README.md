@@ -28,3 +28,9 @@ penggunaan :
   
   jika ingin setcanselable ubah ke false; 
   LoadingCustom loading = new LoadingCustom(context,false,true,R.drawable.chibi2);
+  
+  ada juga loading bisa :
+  inisialisasi :
+  LoadingBiasa loading = new LoadingBiasa(context,true,true);
+  loading.showDialog();
+  loading.dismissDialog();
