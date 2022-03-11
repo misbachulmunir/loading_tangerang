@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgloading">#B2DADADA</color>
+    <color name="loading">#3CAF7A</color>
+</resources>
